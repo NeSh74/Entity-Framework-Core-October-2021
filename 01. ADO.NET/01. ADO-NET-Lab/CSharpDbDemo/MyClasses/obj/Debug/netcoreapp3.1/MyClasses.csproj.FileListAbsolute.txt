@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.deps.json
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\bin\Debug\netcoreapp3.1\MyClasses.pdb
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.dll
+C:\Users\lenovo\source\repos\CSharpDbDemo\MyClasses\obj\Debug\netcoreapp3.1\MyClasses.pdb
