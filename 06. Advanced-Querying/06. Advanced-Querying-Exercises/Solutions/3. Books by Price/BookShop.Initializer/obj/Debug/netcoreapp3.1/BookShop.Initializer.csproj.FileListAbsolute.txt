@@ -1,0 +1,14 @@
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+C:\Users\lenovo\Downloads\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb
