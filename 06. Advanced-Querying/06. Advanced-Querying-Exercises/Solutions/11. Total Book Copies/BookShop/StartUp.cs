@@ -240,7 +240,7 @@ namespace BookShop
             => context.Books
                 .Count(b => b.Title.Length > lengthCheck);
 
-        // Problem. 11
+        // Total Book Copies 
         public static string CountCopiesByAuthor(BookShopContext context)
         {
             var authors = context
