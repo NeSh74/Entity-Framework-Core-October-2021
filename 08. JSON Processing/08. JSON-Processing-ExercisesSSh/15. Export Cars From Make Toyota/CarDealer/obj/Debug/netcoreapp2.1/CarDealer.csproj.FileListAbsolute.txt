@@ -1,0 +1,13 @@
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\lenovo\Downloads\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
