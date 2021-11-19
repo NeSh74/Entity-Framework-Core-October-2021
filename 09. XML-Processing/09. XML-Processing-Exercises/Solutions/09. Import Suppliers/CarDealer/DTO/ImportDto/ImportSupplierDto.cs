@@ -9,7 +9,7 @@ namespace CarDealer.DTO.ImportDto
         [XmlElement("name")]
         public string Name { get; set; }
 
-        [XmlElement("IsImporter")]
-        public bool IsImporter { get; set; }
+        [XmlElement("isImporter")]
+        public string IsImporter { get; set; }
     }
 }

@@ -38,7 +38,7 @@ namespace CarDealer
                 Supplier s = new Supplier
                 {
                     Name = supplierDto.Name,
-                    IsImporter = supplierDto.IsImporter
+                    IsImporter = bool.Parse(supplierDto.IsImporter)
                 };
 
                 suppliers.Add(s);
