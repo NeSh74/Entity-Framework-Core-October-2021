@@ -1,0 +1,90 @@
+##Pet
+-PetType
+-Name
+-Age
+-Description?
+-Breed
+-Gender
+-Price
+--IsSold
+-Store
+-PetSale
+ 
+##Breed
+-Name
+-ICollection<Pet>
+ 
+##Product
+-ProductType - Foods, toys, decorations,...
+-Name
+-Description?
+-Price
+-Quantity
+-Distributor
+--In Stock (Quantity == 0)
+-ICollection<Store> - Available stores
+-ICollection<ProductSale>
+ 
+##Store
+-Name
+-Description?
+-Work Time
+-Address
+-Email
+-Phone Number
+-ICollection<Product>
+-ICollection<Pet>
+-ICollection<Service>
+-ICollection<PetSale>
+ 
+##Service (In Site)
+-Name
+-Description?
+-Price
+-Discount
+-ICollection<Store>
+ 
+##Client
+-First Name
+-Last Name
+-Email
+-Password
+-Phone Number
+-Address?
+-Card?
+-ICollection<PetSale>
+-ICollection<ProductSale>
+ 
+##Address
+-Town Name
+-Address Text
+-Notes?
+-ICollection<Store>
+-ICollection<Client>
+-ICollection<Sale> (Most important!!!)
+ 
+##CardInfo
+-Client
+-CardNumber
+-CardHolder
+-ExpirationDate
+-CVC
+-ICollection<Sale>
+ 
+##ProductSale (deliveries)
+-Client
+-Product
+-Address
+-DateTime
+-Quantity
+-TotalPrice
+-PaymentType
+-Card?
+-BillInfo?
+ 
+##PetReservation
+-Client
+-Pet
+-Store
+-DateTime
+-TotalPrice
