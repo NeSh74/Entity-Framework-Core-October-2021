@@ -1,0 +1,13 @@
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\lenovo\Downloads\01. Model Defition_Skeleton\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
