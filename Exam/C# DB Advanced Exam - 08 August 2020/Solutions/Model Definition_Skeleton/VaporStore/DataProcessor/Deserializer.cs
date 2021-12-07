@@ -24,7 +24,7 @@ namespace VaporStore.DataProcessor
 
             foreach (var jsonGame in games)
             {
-                if (!IsValid(jsonGame) || jsonGame.Tags.Count() == 0) //!jsonGame.Tags.Any()
+                if (!IsValid(jsonGame) || jsonGame.Tags.Count() == 0) //or !jsonGame.Tags.Any(), can be missid if put [MinLength(1)]
                 {
                     output.AppendLine("Invalid Data");
                     continue;
